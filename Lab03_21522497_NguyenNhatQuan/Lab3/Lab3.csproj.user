@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ex1_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex1_UDPClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex1_UDPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex2_TCPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex3_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex3_TCPClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex3_TCPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex4_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex4_TCPClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ex4_TCPServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

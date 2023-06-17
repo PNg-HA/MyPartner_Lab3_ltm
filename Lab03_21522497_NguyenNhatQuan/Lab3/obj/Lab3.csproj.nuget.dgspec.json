@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\Lab3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\Lab3.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\Lab3.csproj",
+        "projectPath": "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\Lab3.csproj",
+        "packagesPath": "C:\\Users\\Hai Anh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hai Anh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

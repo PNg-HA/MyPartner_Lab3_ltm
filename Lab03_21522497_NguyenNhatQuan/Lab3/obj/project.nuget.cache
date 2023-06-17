@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5AdEMqv9vdubjMSc0nuP9QBOvZ2dH7kKINVuhIawYFlz58SALZgbuDW0GiJ+RHhUe+uVuXMPC26e+DqPgswhg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Hai Anh\\Downloads\\Lab03_21522497_NguyenNhatQuan\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'Lab3': Invalid framework identifier ''."
+    }
+  ]
+}
